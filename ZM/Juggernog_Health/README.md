@@ -1,5 +1,5 @@
 # PlutoT6 Juggernog Health
-[Plutonium](https://plutonium.pw) T6 (BO2) Scripts - Juggernog / Perma-Juggernog Max Health
+[Plutonium](https://plutonium.pw) T6 (BO2) Scripts - Juggernog and Perma-Juggernog Max Health
 
 ### How to use
 1. Navigate to the T6 Plutonium Folder by pressing `Win+R` and pasting `%localappdata%\Plutonium\storage\t6` into it, and hitting Ok.
