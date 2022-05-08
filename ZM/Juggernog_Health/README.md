@@ -1,2 +1,2 @@
 # PlutoT6 Juggernog Health
-Set Juggernog and Perma-Juggernog max health bonus to `2500` (you can change it).
+Sets the maximum Juggernog and Perma-Juggernog health bonus to `2500` (you can change that).
