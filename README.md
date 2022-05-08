@@ -1,5 +1,5 @@
 # PlutoT6 Scripts
-[Plutonium](https://plutonium.pw) T6 (BO2) Scripts
+[Plutonium](https://plutonium.pw) T6 (BO2) Scripts.
 
 ### Requirements
 [GSC Toolkit](https://drive.google.com/file/d/1j_ocjFCQsFaWqF2-PfdoJt2nF_EpNL_G/view?usp=sharing) (Required to compile your script)
