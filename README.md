@@ -2,7 +2,7 @@
 [Plutonium](https://plutonium.pw) T6 (BO2) Scripts.
 
 ### Requirements
-[GSC Toolkit](https://drive.google.com/file/d/1j_ocjFCQsFaWqF2-PfdoJt2nF_EpNL_G/view?usp=sharing) (Required to compile your script)
+[GSC Toolkit](https://drive.google.com/file/d/1j_ocjFCQsFaWqF2-PfdoJt2nF_EpNL_G/view?usp=sharing) (Required to compile your script).
 
 ### How to use
 1. Using the GSC Compiler (from GSC Toolkit), simply drag and drop your raw GSC script ontop of `Compiler.exe` and it should spit out a compiled version. If you get an error, make sure your script isn't already precompiled (open it, and if it looks like gibberish, it is already compiled).
