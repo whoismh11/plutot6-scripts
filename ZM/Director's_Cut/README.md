@@ -7,4 +7,6 @@
 - Special weapons no longer limited to one player
 - Solo revives increased to 6
 
+[How to use](https://github.com/whoismh11/PlutoT6_Scripts#how-to-use)
+
 [Source](https://github.com/teh-bandit/Plutonium-T6ZM/tree/main/Director's%20Cut)
