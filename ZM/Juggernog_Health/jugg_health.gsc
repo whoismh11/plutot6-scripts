@@ -5,11 +5,11 @@
 
 init()
 {
-    //jugg health bonus
+	//jugg health bonus
 	level.juggHealthBonus = getDvarIntDefault( "juggHealthBonus", 2500 );
 	level.zombie_vars[ "zombie_perk_juggernaut_health" ] = level.juggHealthBonus;
 	
-  //perma jugg health bonus
+	//perma jugg health bonus
 	level.permaJuggHealthBonus = getDvarIntDefault( "permaJuggHealthBonus", 2500 );
 	level.zombie_vars[ "zombie_perk_juggernaut_health_upgrade" ] = level.permaJuggHealthBonus;
 }
