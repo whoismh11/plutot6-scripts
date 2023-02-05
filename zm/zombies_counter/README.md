@@ -1,4 +1,4 @@
 # PlutoT6 Zombies Counter
-Zombies Counter (HUD).
+Zombies counter (HUD).
 
-[How to use](https://github.com/whoismh11/PlutoT6_Scripts#how-to-use)
+[How to use](https://github.com/naabclan/plutot6-scripts#how-to-use)
