@@ -1,5 +1,7 @@
 # PlutoT6 Scripts
 [Plutonium](https://plutonium.pw) T6 (BO2) scripts by [MH11](https://github.com/whoismh11).
+
+### Contents
 - [Zombies](zm)
   - [Director's Cut (by teh-bandit - edited by MH11)](zm/director's_cut)
   - [Juggernog Health](zm/juggernog_health)
