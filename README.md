@@ -1,10 +1,10 @@
 # PlutoT6 Scripts
 [Plutonium](https://plutonium.pw) T6 (BO2) scripts by [MH11](https://github.com/whoismh11).
-
-- [Director's Cut (by teh-bandit - edited by MH11)](zm/director's_cut)
-- [Juggernog Health](zm/juggernog_health)
-- [Zombies Counter](zm/zombies_counter)
-- [Zombies Spawn Fix](zm/zombies_spawn_fix)
+- [Zombies](zm)
+  - [Director's Cut (by teh-bandit - edited by MH11)](zm/director's_cut)
+  - [Juggernog Health](zm/juggernog_health)
+  - [Zombies Counter](zm/zombies_counter)
+  - [Zombies Spawn Fix](zm/zombies_spawn_fix)
 
 ### Requirements
 [GSC Toolkit](https://drive.google.com/file/d/1j_ocjFCQsFaWqF2-PfdoJt2nF_EpNL_G/view?usp=sharing) (Required to compile your script).
