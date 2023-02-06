@@ -17,3 +17,6 @@
 3. Create a folder called `scripts`, then inside that folder, create two new folders called `mp`, and `zm`.
 4. Take your compiled script and put it in `%localappdata%\Plutonium\storage\t6\scripts\mp` or `%localappdata%\Plutonium\storage\t6\scripts\zm` depending on which mode it is for. If your script should always be loaded no matter the game mode copy it to `%localappdata%\Plutonium\storage\t6\scripts`.
 5. When launching your server or a custom game, you will know if all has gone well or not if the console prints `Custom script 'scripts/mp/yourScriptName' loaded`.
+
+### Contact / Contribution
+- [Discord](https://discord.gg/2JjvhAk)
