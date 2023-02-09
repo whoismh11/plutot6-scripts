@@ -1,4 +1,4 @@
-# PlutoT6 Director's Cut (by teh-bandit - edited by MH11)
+# PlutoT6 Director's Cut (new edition)
 - All perks granted permanently
 - All weapons in the box are upgraded
 - 1,000,000 starting points
