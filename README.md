@@ -3,7 +3,7 @@
 
 ## Contents
 - [Zombies](zm)
-  - [Director's Cut (by teh-bandit - edited by MH11)](zm/director's_cut)
+  - [Director's Cut (new edition)](zm/director's_cut)
   - [Juggernog Health](zm/juggernog_health)
   - [Zombies Counter](zm/zombies_counter)
   - [Zombies Spawn Fix](zm/zombies_spawn_fix)
