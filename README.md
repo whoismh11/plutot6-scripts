@@ -8,10 +8,8 @@
   - [Zombies Counter](zm/zombies_counter)
   - [Zombies Spawn Fix](zm/zombies_spawn_fix)
 
-## Requirements
-[GSC Toolkit](https://drive.google.com/file/d/1j_ocjFCQsFaWqF2-PfdoJt2nF_EpNL_G/view?usp=sharing) (Required to compile your script).
-
 ## How to use
+**Requirement:** [GSC Toolkit](https://drive.google.com/file/d/1j_ocjFCQsFaWqF2-PfdoJt2nF_EpNL_G/view?usp=sharing) (required to compile scripts).
 1. Using the GSC Compiler (from GSC Toolkit), simply drag and drop your raw GSC script ontop of `Compiler.exe` and it should spit out a compiled version. If you get an error, make sure your script isn't already precompiled (open it, and if it looks like gibberish, it is already compiled).
 2. Navigate to the T6 Plutonium folder by pressing `Win+R` and pasting `%localappdata%\Plutonium\storage\t6` into it, and hitting Ok.
 3. Create a folder called `scripts`, then inside that folder, create two new folders called `mp`, and `zm`.
