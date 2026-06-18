@@ -1,5 +1,5 @@
 # PlutoT6 Scripts
-[Plutonium](https://plutonium.pw) T6 (BO2) scripts
+[Plutonium](https://plutonium.pw) T6 (BO2) scripts.
 
 ## Contents
 - [Zombies](zm)
